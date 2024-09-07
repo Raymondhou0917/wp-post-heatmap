@@ -69,7 +69,7 @@ option = {
     title: {
         top: 0,
         left: 'center',
-        text: '博客废话产量'
+        text: '雷蒙的囉唆產量'
     },
     tooltip: {
         formatter: function (p) {
@@ -87,7 +87,7 @@ option = {
 
         inRange: {
             //  [floor color, ceiling color]
-            color: ['#7aa8744c', '#7AA874']
+            color: ['#21A4B14c', '#21A4B1']
         },
         splitNumber: 4,
         text: ['千字', ''],
